@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+h1:hover{
+    color: red;
+    transition: 1.5s;
+    cursor: pointer;
+}
+body{
+    background: url(https://dnd2oi6izkvoi.cloudfront.net/2022/11/04/image/jpeg/4UJ3jqVgEg5kmCVeSRJLt9OMgfe3IOdpxqiTnJfA.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
